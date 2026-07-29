@@ -80,6 +80,11 @@ const clusterData: ClusterItem[] = [
         description:
             'Members of this sub-cluster will ensure that all events and activities run smoothly. They will be responsible for the logistical aspects of events, ensuring that everything is well-organized and executed efficiently.',
         
+    },{
+       imageUrl: '/images/Clusters/Networks.png',
+       title: 'Networks',
+       description:'Every digital interaction begins with a connection. This cluster empowers members to understand, build, and optimize the networks that keep the world connected. From configuring infrastructure to securing communications, members will tackle real-world networking challenges with practical experience and innovation.'
+      
     },
 ];
 
